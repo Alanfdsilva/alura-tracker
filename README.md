@@ -1,6 +1,6 @@
 # alura-tracker
 
-###Um projeto feito durante as aulas da alura, para aprendizado de vue.js
+### Um projeto feito durante as aulas da alura, para aprendizado de vue.js
 
 
 ## Project setup
